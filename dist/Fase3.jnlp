@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Fase3.jnlp">
+  <information>
+    <title>Fase3</title>
+    <vendor>davo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Fase3.jar" size="21066" download="eager" />
+  </resources>
+  <application-desc main-class="vehiculos.ventana.VentanaMaestra"  name="Fase3" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
