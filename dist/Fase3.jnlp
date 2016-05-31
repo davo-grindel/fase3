@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Fase3.jar" size="21066" download="eager" />
+    <jar href="Fase3.jar" size="25146" download="eager" />
   </resources>
   <application-desc main-class="vehiculos.ventana.VentanaMaestra"  name="Fase3" >
   </application-desc>
